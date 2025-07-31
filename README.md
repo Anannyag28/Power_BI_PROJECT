@@ -44,9 +44,5 @@
 - Profits peaked in May and December while losses occurred in a few other months.
 - Some sub-categories like Printers showed strong profitability, while others were less profitable.
 
-## Possible Enhancements
 
-- Add forecasting models for future sales trends.
-- Implement drill-through pages for customer-level analysis.
-- Add comparison views for year-over-year or quarter-over-quarter analysis.
 
